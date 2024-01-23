@@ -1,4 +1,4 @@
-dash
+dash==1.21.0
 pandas
 matplotlib
 tensorflow-cpu
